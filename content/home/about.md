@@ -1,21 +1,23 @@
 ---
-# An instance of the About widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
 widget: about
-
-# Activate this widget? true/false
 active: true
-
-# This file represents a page section.
-headless: true
-
-# Order that this section appears on the page.
-weight: 20
-
-title: Biography
-
-# Choose the user profile to display
-# This should be the username (folder name) of a profile in your `content/authors/` folder.
-# See https://wowchemy.com/docs/get-started/#introduce-yourself
 author: admin
+widget_id: RECENT-POSTS
+headless: true
+weight: 20
+title: About Me
+design:
+  background:
+    image: sumit_pic2.jpg
 ---
+<!--StartFragment-->
+
+I like developing things, teaching and sometimes writing too.\
+\
+I broadly teach Computer Science (core), FullStack Development, Information Security & Forensics.\
+\
+Areas of my teaching/research interest includes Mobile Application Security, Malware Analysis, Adversarial Machine Learning, Advanced Data Structures & Algorithms, Programming - Full Stack Development, Cyber Security & Forensics.\
+\
+Other areas that intrigues me - Space Science 🔭 (Astrophysics)
+
+<!--EndFragment-->
