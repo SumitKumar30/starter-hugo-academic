@@ -8,7 +8,7 @@ weight: 20
 title: About Me
 design:
   background:
-    image: sumit_pic2.jpg
+    image: ""
 ---
 <!--StartFragment-->
 
