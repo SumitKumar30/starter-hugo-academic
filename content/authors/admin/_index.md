@@ -7,8 +7,9 @@ bio: My research interests include Malware Analysis, Machine Learning, Advanced
   Forensics and programmable matter.
 interests:
   - Malware Analysis
-  - Machine Learning
-  - Advanced Algorithms
+  - Algorithms Design & Analysis
+  - Full Stack Software Development
+  - Programming/Coding
 social:
   - icon: envelope
     icon_pack: fas
@@ -37,8 +38,8 @@ education:
       institution: Lovely Professional University
       year: 2018
     - course: B.Tech in Computer Science
-      institution: The NorthCap University
-      year: 2017
+      institution: Chhattisgarh Swami Vivekananda Technical University, Bhilai
+      year: 2014
 email: ""
 superuser: true
 highlight_name: true
