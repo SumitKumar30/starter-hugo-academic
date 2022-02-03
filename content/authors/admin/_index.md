@@ -1,7 +1,7 @@
 ---
 title: Sumit Kumar
 role: Assistant Professor of Computer Science
-avatar_filename: sumit_pic2.jpg
+avatar_filename: assets/media/sumit_pic2.jpg
 bio: My research interests include Malware Analysis, Machine Learning, Advanced
   Data Structures & Algorithms, Full Stack Development, Cyber Security &
   Forensics and programmable matter.
