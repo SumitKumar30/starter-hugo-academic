@@ -7,7 +7,7 @@ bio: My research interests include Malware Analysis, Machine Learning, Advanced
   Forensics and programmable matter.
 interests:
   - Malware Analysis
-  - Algorithms Design & Analysis
+  - Data Structures & Algorithms
   - Full Stack Software Development
   - Programming/Coding
 social:
@@ -27,15 +27,15 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/sumitkumar3010/
 organizations:
-  - name: The NorthCap University
+  - name: The NorthCap University, Gurugram
     url: https://www.ncuindia.edu/
 education:
   courses:
     - course: PhD in Malware Analysis
-      institution: The NorthCap University
+      institution: The NorthCap University, Gurugram
       year: 2024
     - course: M.Tech in Computer Science & Engineering
-      institution: Lovely Professional University
+      institution: Lovely Professional University, Punjab
       year: 2018
     - course: B.Tech in Computer Science
       institution: Chhattisgarh Swami Vivekananda Technical University, Bhilai
